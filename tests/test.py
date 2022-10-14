@@ -2,7 +2,7 @@ import json
 import sys
 import pytest
 
-sys.path.append('/Users/christian/Desktop/joan_proj/coding_test/')
+sys.path.append('path')
 from weather_collector import WeatherCollector
 
 # Test for Salt Lake City, Utah
