@@ -1,0 +1,4 @@
+https://api.weather.gov/gridpoints/SLC/99,174/forecast
+https://api.weather.gov/gridpoints/BOU/58,60/forecast
+https://api.weather.gov/gridpoints/PSR/157,64/forecast
+https://api.weather.gov/gridpoints/TBW/70,98/forecast
